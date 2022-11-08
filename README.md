@@ -33,7 +33,21 @@
   </a>
 </p>
 
-[![](https://raw.githubusercontent.com/szktmyk38f/szktmyk38f/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="https://raw.githubusercontent.com/szktmyk38f/szktmyk38f/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szktmyk38f&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szktmyk38f&repo=notify-github-release)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=szktmyk38f&show_icons=true" height="158px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szktmyk38f&layout=compact" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=szktmyk38f&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
+</a>
+
+
+
