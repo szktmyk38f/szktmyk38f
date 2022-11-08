@@ -33,3 +33,7 @@
   </a>
 </p>
 
+[![](https://raw.githubusercontent.com/szktmyk38f/szktmyk38f/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szktmyk38f&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szktmyk38f&repo=notify-github-release)](https://github.com/anuraghazra/github-readme-stats)
